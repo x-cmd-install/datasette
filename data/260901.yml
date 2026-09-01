@@ -1,0 +1,63 @@
+about:
+  description: An open source multi-tool for exploring and publishing data
+  license: Apache-2.0
+  homepage: https://datasette.io
+  head: 0337fba
+  archived: false
+  latestVersion: 1.0a38
+  collectedAt: 2026-09-01T05:14:55Z
+timeline:
+  created: 2017-10-23
+  lastCommit: 2026-08-10
+  lastRelease: 2026-08-06
+popularity:
+  star: 11417
+  watcher: 105
+  fork: 902
+  release: 171
+  contributor: 90
+  pullRequest: 262
+  issue: 2053
+language:
+  Python: 2349628
+  JavaScript: 340037
+  HTML: 184357
+  CSS: 80593
+  Shell: 3798
+  Just: 2289
+  C: 1548
+  Dockerfile: 553
+totalLine: 2962803
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 1
+    openPR: 18
+    closedIssue: 2
+    openIssue: 5
+    commit: 1
+  last90d:
+    since: 2026-06-03
+    release: 7
+    mergedPR: 29
+    openPR: 40
+    closedIssue: 29
+    openIssue: 21
+    commit: 257
+  last180d:
+    since: 2026-03-05
+    release: 14
+    mergedPR: 61
+    openPR: 64
+    closedIssue: 72
+    openIssue: 25
+    commit: 461
+  last360d:
+    since: 2025-09-06
+    release: 21
+    mergedPR: 99
+    openPR: 76
+    closedIssue: 152
+    openIssue: 40
+    commit: 690
