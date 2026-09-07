@@ -5,13 +5,13 @@ about:
   head: bdc9731
   archived: false
   latestVersion: "1.0a38"
-  collectedAt: 2026-09-07T05:35:30Z
+  collectedAt: 2026-09-07T19:09:17Z
 timeline:
   created: 2017-10-23
   lastCommit: 2026-09-01
   lastRelease: 2026-08-06
 popularity:
-  star: 11433
+  star: 11439
   watcher: 107
   fork: 902
   release: 171
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-11
     release: 14
     mergedPR: 63
-    openPR: 54
+    openPR: 53
     closedIssue: 71
     openIssue: 27
     commit: 463
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-12
     release: 21
     mergedPR: 101
-    openPR: 74
+    openPR: 73
     closedIssue: 152
     openIssue: 42
     commit: 693
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-17
     release: 26
     mergedPR: 109
-    openPR: 80
+    openPR: 79
     closedIssue: 171
     openIssue: 74
     commit: 751
 total:
   release: 171
   mergedPR: 445
-  openPR: 125
+  openPR: 124
   closedIssue: 1462
   openIssue: 593
   commit: 3409
 ---
 path: /home/runner/.x-repo/github.com/simonw/datasette
-collectedAt: 2026-09-07T05:35:34Z
+collectedAt: 2026-09-07T19:09:20Z
 loc:
   Python:
     code: 59323
@@ -346,7 +346,7 @@ checks:
       - 'Warn: 0 commits out of 13 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:35:34+00:00
+  collectedAt: 2026-09-07T19:09:21+00:00
   platform:
     darwin/arm64:
       name:  null
