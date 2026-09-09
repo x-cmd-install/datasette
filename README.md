@@ -7,7 +7,7 @@ An open source multi-tool for exploring and publishing data
 - **Latest release**: `1.0a38` (2026-08-06)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 11447 · **Forks**: 901 · **Open issues**: 2055 · **Contributors**: 90
+- **Stars**: 11448 · **Forks**: 902 · **Open issues**: 2056 · **Contributors**: 90
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/datasette> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:30:20Z._
+_Last regenerated: 2026-09-09T19:41:52Z._
