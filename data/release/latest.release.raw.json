@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/simonw/datasette/releases/386701554",
-  "assets_url": "https://api.github.com/repos/simonw/datasette/releases/386701554/assets",
-  "upload_url": "https://uploads.github.com/repos/simonw/datasette/releases/386701554/assets{?name,label}",
-  "html_url": "https://github.com/simonw/datasette/releases/tag/0.65.4",
-  "id": 386701554,
+  "url": "https://api.github.com/repos/simonw/datasette/releases/390343787",
+  "assets_url": "https://api.github.com/repos/simonw/datasette/releases/390343787/assets",
+  "upload_url": "https://uploads.github.com/repos/simonw/datasette/releases/390343787/assets{?name,label}",
+  "html_url": "https://github.com/simonw/datasette/releases/tag/0.65.5",
+  "id": 390343787,
   "author": {
     "login": "simonw",
     "id": 9599,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBm6k_c4XDJjy",
-  "tag_name": "0.65.4",
+  "node_id": "RE_kwDOBm6k_c4XRCxr",
+  "tag_name": "0.65.5",
   "target_commitish": "0.65.x",
-  "name": "0.65.4",
+  "name": "0.65.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-10T23:49:34Z",
-  "updated_at": "2026-09-11T00:06:55Z",
-  "published_at": "2026-09-11T00:06:55Z",
+  "created_at": "2026-09-16T23:44:13Z",
+  "updated_at": "2026-09-16T23:51:08Z",
+  "published_at": "2026-09-16T23:51:08Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/simonw/datasette/tarball/0.65.4",
-  "zipball_url": "https://api.github.com/repos/simonw/datasette/zipball/0.65.4",
-  "body": "This release includes security fixes for permissions, SQL construction and caching, backported to the stable 0.65.x branch.\r\n\r\nSee [1.0a39](https://docs.datasette.io/en/latest/changelog.html#v1-0-a39) for the full set of security fixes and other improvements in the 1.0 alpha series.\r\n\r\nThe Datasette blog [has more details on these releases](https://datasette.io/blog/2026/september-security-releases/).\r\n\r\nSome of the security fixes include:\r\n\r\n- Table and view permission checks now take SQLite's case-insensitive names into account. See [Controlling access to specific tables and views](https://docs.datasette.io/en/stable/authentication.html#authentication-permissions-table).  \r\n- Table filters using `?_through=` require permission to view the intermediate table.  \r\n- Fixed SQL identifier escaping for primary-key column names from untrusted database schemas, including row lookups and pagination.  \r\n- Full-text search index detection now uses parameterized SQL and treats wildcard characters in table names literally.  \r\n- Private and personalized dynamic responses now use `Cache-Control: private, no-store`. Anonymous dynamic responses vary by `Cookie` and `Authorization`.  \r\n- SQLite extension loading is disabled after extensions supplied using `--load-extension` have been loaded.\r\n\r\n### Other improvements and fixes\r\n\r\n- Backported the non-blocking write task ID fixes from [#2861](https://github.com/simonw/datasette/issues/2861) by [Zain Dana Harper (HarperZ9)](https://github.com/HarperZ9). `execute_write_fn(block=False)` now returns a unique UUID for each call, including when `num_sql_threads=0`.",
-  "reactions": {
-    "url": "https://api.github.com/repos/simonw/datasette/releases/386701554/reactions",
-    "total_count": 1,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 1,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/simonw/datasette/tarball/0.65.5",
+  "zipball_url": "https://api.github.com/repos/simonw/datasette/zipball/0.65.5",
+  "body": "- Fixed a security issue where a trailing newline in a requested table name could bypass table permissions and expose private rows. Thanks for the report, [dpfkdlemtp](https://github.com/dpfkdlemtp). [GHSA-h547-rmjf-5m2m](https://github.com/simonw/datasette/security/advisories/GHSA-h547-rmjf-5m2m)\r\n"
 }
