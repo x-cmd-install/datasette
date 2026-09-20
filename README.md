@@ -4,7 +4,7 @@
 
 An open source multi-tool for exploring and publishing data
 
-![datasette](https://repo.x-cmd.io/datasette.svg)
+[![x-cmd/install — datasette Code Quality Monitoring Repo Card](https://repo.x-cmd.io/datasette.svg)](https://x-cmd.com/install/datasette)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,472 · **Forks**: 903 · **Open issues**: 2,079 · **Contributors**: 95
+- **Stars**: 11,476 · **Forks**: 904 · **Open issues**: 2,079 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 175 · **Merged PRs**: 464 · **Open PRs**: 120 · **Closed issues**: 1530 · **Open issues**: 549 · **Commits**: 3517
+- **Releases**: 175 · **Merged PRs**: 464 · **Open PRs**: 121 · **Closed issues**: 1530 · **Open issues**: 549 · **Commits**: 3517
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 18 | 10 | 5 | 22 | 107 |
-| last60d | 2026-07-20 | 6 | 23 | 20 | 12 | 25 | 112 |
-| 90d | 2026-06-20 | 9 | 39 | 34 | 28 | 33 | 255 |
-| last180d | 2026-03-22 | 17 | 73 | 51 | 77 | 38 | 539 |
-| 360d | 2025-09-23 | 25 | 118 | 70 | 164 | 53 | 798 |
-| last720d | 2024-09-28 | 30 | 126 | 76 | 185 | 82 | 859 |
+| 30d | 2026-08-21 | 4 | 18 | 11 | 5 | 22 | 107 |
+| last60d | 2026-07-22 | 6 | 23 | 21 | 11 | 24 | 112 |
+| 90d | 2026-06-22 | 9 | 38 | 35 | 26 | 33 | 255 |
+| last180d | 2026-03-24 | 17 | 72 | 52 | 77 | 38 | 539 |
+| 360d | 2025-09-25 | 25 | 118 | 71 | 164 | 53 | 798 |
+| last720d | 2024-09-30 | 30 | 126 | 77 | 185 | 82 | 859 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:46:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:14Z._

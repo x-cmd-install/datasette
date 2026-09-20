@@ -4,7 +4,7 @@
 
 An open source multi-tool for exploring and publishing data
 
-![datasette](https://repo.x-cmd.io/datasette.svg?lang=zh)
+[![x-cmd/install — datasette Code Quality Monitoring Repo Card](https://repo.x-cmd.io/datasette.svg?lang=zh)](https://x-cmd.com/install/datasette)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install datasette
 
 ## 流行度
 
-- **Star**: 11,472 · **Fork**: 903 · **开放 issue**: 2,079 · **贡献者**: 95
+- **Star**: 11,476 · **Fork**: 904 · **开放 issue**: 2,079 · **贡献者**: 95
 
 ## 累计统计
 
-- **发布数**: 175 · **已合并 PR**: 464 · **开放 PR**: 120 · **已关闭 issue**: 1530 · **开放 issue**: 549 · **提交数**: 3517
+- **发布数**: 175 · **已合并 PR**: 464 · **开放 PR**: 121 · **已关闭 issue**: 1530 · **开放 issue**: 549 · **提交数**: 3517
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 18 | 10 | 5 | 22 | 107 |
-| last60d | 2026-07-20 | 6 | 23 | 20 | 12 | 25 | 112 |
-| 90d | 2026-06-20 | 9 | 39 | 34 | 28 | 33 | 255 |
-| last180d | 2026-03-22 | 17 | 73 | 51 | 77 | 38 | 539 |
-| 360d | 2025-09-23 | 25 | 118 | 70 | 164 | 53 | 798 |
-| last720d | 2024-09-28 | 30 | 126 | 76 | 185 | 82 | 859 |
+| 30d | 2026-08-21 | 4 | 18 | 11 | 5 | 22 | 107 |
+| last60d | 2026-07-22 | 6 | 23 | 21 | 11 | 24 | 112 |
+| 90d | 2026-06-22 | 9 | 38 | 35 | 26 | 33 | 255 |
+| last180d | 2026-03-24 | 17 | 72 | 52 | 77 | 38 | 539 |
+| 360d | 2025-09-25 | 25 | 118 | 71 | 164 | 53 | 798 |
+| last720d | 2024-09-30 | 30 | 126 | 77 | 185 | 82 | 859 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ datasette 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:46:33Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:53:14Z._
