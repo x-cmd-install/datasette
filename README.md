@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 4 | 18 | 11 | 5 | 22 | 107 |
-| last60d | 2026-07-23 | 6 | 23 | 21 | 11 | 24 | 110 |
-| 90d | 2026-06-23 | 9 | 35 | 35 | 23 | 29 | 209 |
-| last180d | 2026-03-25 | 17 | 71 | 52 | 77 | 38 | 533 |
-| 360d | 2025-09-26 | 25 | 118 | 71 | 164 | 53 | 793 |
-| last720d | 2024-10-01 | 30 | 126 | 77 | 185 | 82 | 859 |
+| 30d | 2026-08-23 | 4 | 18 | 12 | 5 | 22 | 107 |
+| last60d | 2026-07-24 | 6 | 23 | 21 | 11 | 24 | 110 |
+| 90d | 2026-06-24 | 8 | 35 | 36 | 22 | 29 | 209 |
+| last180d | 2026-03-26 | 17 | 71 | 53 | 77 | 38 | 533 |
+| 360d | 2025-09-27 | 25 | 118 | 71 | 164 | 53 | 793 |
+| last720d | 2024-10-02 | 30 | 126 | 77 | 185 | 82 | 859 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:44:41Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:57:45Z._
