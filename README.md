@@ -4,7 +4,7 @@
 
 An open source multi-tool for exploring and publishing data
 
-[![x-cmd/install — datasette Code Quality Monitoring Repo Card](https://repo.x-cmd.io/datasette.svg)](https://x-cmd.com/install/datasette)
+[![x-cmd/install — datasette Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/datasette.svg)](https://x-cmd.com/install/datasette)
 
 ## Install
 
@@ -30,7 +30,7 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,478 · **Forks**: 905 · **Open issues**: 2,079 · **Contributors**: 95
+- **Stars**: 11,479 · **Forks**: 906 · **Open issues**: 2,081 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 175 · **Merged PRs**: 464 · **Open PRs**: 121 · **Closed issues**: 1530 · **Open issues**: 549 · **Commits**: 3517
+- **Releases**: 175 · **Merged PRs**: 464 · **Open PRs**: 123 · **Closed issues**: 1530 · **Open issues**: 551 · **Commits**: 3517
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 18 | 12 | 5 | 22 | 107 |
-| last60d | 2026-07-24 | 6 | 23 | 21 | 11 | 24 | 110 |
-| 90d | 2026-06-24 | 8 | 35 | 36 | 22 | 29 | 209 |
-| last180d | 2026-03-26 | 17 | 71 | 53 | 77 | 38 | 533 |
-| 360d | 2025-09-27 | 25 | 118 | 71 | 164 | 53 | 793 |
-| last720d | 2024-10-02 | 30 | 126 | 77 | 185 | 82 | 859 |
+| 30d | 2026-08-24 | 4 | 18 | 14 | 5 | 23 | 107 |
+| last60d | 2026-07-25 | 6 | 22 | 22 | 11 | 26 | 110 |
+| 90d | 2026-06-25 | 8 | 35 | 38 | 22 | 31 | 209 |
+| last180d | 2026-03-27 | 17 | 71 | 55 | 76 | 40 | 533 |
+| 360d | 2025-09-28 | 25 | 118 | 73 | 164 | 55 | 793 |
+| last720d | 2024-10-03 | 30 | 126 | 79 | 185 | 84 | 859 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:57:45Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:47:55Z._

@@ -4,7 +4,7 @@
 
 An open source multi-tool for exploring and publishing data
 
-[![x-cmd/install — datasette Code Quality Monitoring Repo Card](https://repo.x-cmd.io/datasette.svg?lang=zh)](https://x-cmd.com/install/datasette)
+[![x-cmd/install — datasette Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/datasette.svg?lang=zh)](https://x-cmd.com/install/datasette)
 
 ## 安装
 
@@ -30,7 +30,7 @@ x install datasette
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ x install datasette
 
 ## 流行度
 
-- **Star**: 11,478 · **Fork**: 905 · **开放 issue**: 2,079 · **贡献者**: 95
+- **Star**: 11,479 · **Fork**: 906 · **开放 issue**: 2,081 · **贡献者**: 95
 
 ## 累计统计
 
-- **发布数**: 175 · **已合并 PR**: 464 · **开放 PR**: 121 · **已关闭 issue**: 1530 · **开放 issue**: 549 · **提交数**: 3517
+- **发布数**: 175 · **已合并 PR**: 464 · **开放 PR**: 123 · **已关闭 issue**: 1530 · **开放 issue**: 551 · **提交数**: 3517
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 18 | 12 | 5 | 22 | 107 |
-| last60d | 2026-07-24 | 6 | 23 | 21 | 11 | 24 | 110 |
-| 90d | 2026-06-24 | 8 | 35 | 36 | 22 | 29 | 209 |
-| last180d | 2026-03-26 | 17 | 71 | 53 | 77 | 38 | 533 |
-| 360d | 2025-09-27 | 25 | 118 | 71 | 164 | 53 | 793 |
-| last720d | 2024-10-02 | 30 | 126 | 77 | 185 | 82 | 859 |
+| 30d | 2026-08-24 | 4 | 18 | 14 | 5 | 23 | 107 |
+| last60d | 2026-07-25 | 6 | 22 | 22 | 11 | 26 | 110 |
+| 90d | 2026-06-25 | 8 | 35 | 38 | 22 | 31 | 209 |
+| last180d | 2026-03-27 | 17 | 71 | 55 | 76 | 40 | 533 |
+| 360d | 2025-09-28 | 25 | 118 | 73 | 164 | 55 | 793 |
+| last720d | 2024-10-03 | 30 | 126 | 79 | 185 | 84 | 859 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ datasette 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:57:46Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:47:56Z._
