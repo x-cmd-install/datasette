@@ -26,11 +26,11 @@ Total: **101,129** lines of code across **294** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
+- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,495 · **Forks**: 916 · **Open issues**: 2,084 · **Contributors**: 98
+- **Stars**: 11,498 · **Forks**: 921 · **Open issues**: 2,088 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 475 · **Open PRs**: 123 · **Closed issues**: 1533 · **Open issues**: 551 · **Commits**: 3549
+- **Releases**: 176 · **Merged PRs**: 475 · **Open PRs**: 129 · **Closed issues**: 1533 · **Open issues**: 555 · **Commits**: 3549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 5 | 19 | 16 | 5 | 26 | 109 |
-| last60d | 2026-08-01 | 7 | 29 | 23 | 9 | 29 | 139 |
-| 90d | 2026-07-02 | 9 | 42 | 34 | 19 | 34 | 185 |
-| last180d | 2026-04-03 | 18 | 80 | 55 | 74 | 43 | 564 |
-| 360d | 2025-10-05 | 26 | 129 | 73 | 163 | 58 | 820 |
-| last720d | 2024-10-10 | 30 | 137 | 79 | 184 | 86 | 890 |
+| 30d | 2026-09-01 | 5 | 17 | 22 | 5 | 29 | 109 |
+| last60d | 2026-08-02 | 7 | 29 | 28 | 9 | 33 | 139 |
+| 90d | 2026-07-03 | 9 | 41 | 40 | 19 | 38 | 185 |
+| last180d | 2026-04-04 | 18 | 80 | 61 | 74 | 47 | 564 |
+| 360d | 2025-10-06 | 26 | 129 | 79 | 163 | 62 | 820 |
+| last720d | 2024-10-11 | 30 | 137 | 85 | 184 | 89 | 890 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:18:30Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:32:52Z._
