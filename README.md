@@ -26,11 +26,11 @@ Total: **101,813** lines of code across **296** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.5 / 10**
+Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 6/24 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,504 · **Forks**: 919 · **Open issues**: 2,089 · **Contributors**: 98
+- **Stars**: 11,509 · **Forks**: 920 · **Open issues**: 2,089 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 5 | 18 | 28 | 6 | 28 | 76 |
-| last60d | 2026-08-08 | 5 | 31 | 32 | 9 | 32 | 138 |
-| 90d | 2026-07-09 | 8 | 41 | 46 | 15 | 36 | 153 |
-| last180d | 2026-04-10 | 18 | 82 | 65 | 75 | 47 | 566 |
-| 360d | 2025-10-12 | 26 | 128 | 83 | 158 | 62 | 821 |
-| last720d | 2024-10-17 | 30 | 139 | 90 | 185 | 89 | 892 |
+| 30d | 2026-09-08 | 5 | 18 | 29 | 6 | 28 | 76 |
+| last60d | 2026-08-09 | 5 | 31 | 33 | 9 | 32 | 138 |
+| 90d | 2026-07-10 | 8 | 41 | 41 | 15 | 36 | 153 |
+| last180d | 2026-04-11 | 18 | 82 | 65 | 75 | 47 | 566 |
+| 360d | 2025-10-13 | 26 | 128 | 83 | 158 | 61 | 821 |
+| last720d | 2024-10-18 | 30 | 139 | 90 | 185 | 89 | 892 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:37:36Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:43:19Z._
