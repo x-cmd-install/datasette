@@ -30,7 +30,7 @@ x install datasette
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/24 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 6/28 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -57,12 +57,12 @@ x install datasette
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 17 | 33 | 4 | 29 | 25 |
-| last60d | 2026-08-14 | 5 | 29 | 36 | 6 | 33 | 142 |
-| 90d | 2026-07-15 | 7 | 37 | 40 | 13 | 35 | 149 |
-| last180d | 2026-04-16 | 17 | 81 | 68 | 75 | 48 | 544 |
-| 360d | 2025-10-18 | 26 | 129 | 86 | 158 | 62 | 818 |
-| last720d | 2024-10-23 | 30 | 140 | 93 | 185 | 88 | 896 |
+| 30d | 2026-09-14 | 3 | 15 | 33 | 4 | 29 | 25 |
+| last60d | 2026-08-15 | 5 | 29 | 36 | 6 | 32 | 142 |
+| 90d | 2026-07-16 | 7 | 37 | 40 | 13 | 35 | 149 |
+| last180d | 2026-04-17 | 17 | 79 | 68 | 71 | 48 | 544 |
+| 360d | 2025-10-19 | 26 | 129 | 86 | 158 | 62 | 818 |
+| last720d | 2024-10-24 | 30 | 140 | 93 | 185 | 88 | 896 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ datasette 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:36:55Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:32:22Z._
