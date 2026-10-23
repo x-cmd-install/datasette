@@ -14,11 +14,11 @@ x install datasette
 
 ## Code insight
 
-Total: **101,690** lines of code across **295** files in the top 5 languages.
+Total: **101,709** lines of code across **295** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 68,099 | 2,953 | 9,646 | 181 |
+| Python | 68,118 | 2,953 | 9,651 | 181 |
 | ReStructuredText | 16,334 | 0 | 7,056 | 32 |
 | JavaScript | 10,100 | 167 | 630 | 16 |
 | Css | 3,562 | 32 | 532 | 2 |
@@ -43,26 +43,37 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0a41` (2026-09-16)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 11,521 · **Forks**: 929 · **Open issues**: 2,093 · **Contributors**: 98
+- **Stars**: 11,522 · **Forks**: 930 · **Open issues**: 2,093 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 478 · **Open PRs**: 145 · **Closed issues**: 1536 · **Open issues**: 557 · **Commits**: 3555
+- **Releases**: 176 · **Merged PRs**: 478 · **Open PRs**: 146 · **Closed issues**: 1536 · **Open issues**: 557 · **Commits**: 3556
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 5 | 35 | 0 | 12 | 9 |
-| last60d | 2026-08-23 | 5 | 29 | 43 | 6 | 35 | 142 |
-| 90d | 2026-07-24 | 7 | 37 | 48 | 12 | 37 | 147 |
-| last180d | 2026-04-25 | 16 | 79 | 75 | 69 | 51 | 543 |
-| 360d | 2025-10-27 | 26 | 123 | 94 | 131 | 63 | 709 |
-| last720d | 2024-11-01 | 30 | 140 | 101 | 185 | 91 | 896 |
+| 30d | 2026-09-23 | 1 | 5 | 34 | 0 | 12 | 10 |
+| last60d | 2026-08-24 | 5 | 29 | 44 | 6 | 34 | 143 |
+| 90d | 2026-07-25 | 7 | 35 | 49 | 12 | 37 | 148 |
+| last180d | 2026-04-26 | 16 | 79 | 76 | 69 | 51 | 544 |
+| 360d | 2025-10-28 | 26 | 123 | 95 | 131 | 63 | 710 |
+| last720d | 2024-11-02 | 30 | 140 | 102 | 185 | 91 | 897 |
+
+## Distribution status
+
+Reported by **16** distros on [repology.org](https://repology.org/project/datasette). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.65.5` | ✅ latest |
+| Debian 14 | `0.65.5` | ✅ latest |
+| Homebrew | `0.65.5` | ✅ latest |
+| Nix unstable | `0.65.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +84,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:30:25Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:23:26Z._
