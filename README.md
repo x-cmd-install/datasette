@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,523 · **Forks**: 938 · **Open issues**: 2,093 · **Contributors**: 98
+- **Stars**: 11,525 · **Forks**: 938 · **Open issues**: 2,093 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 176 · **Merged PRs**: 478 · **Open PRs**: 152 · **Closed issues**: 1536 · **Open issues**: 557 · **Commits**: 3556
+- **Releases**: 176 · **Merged PRs**: 478 · **Open PRs**: 151 · **Closed issues**: 1536 · **Open issues**: 557 · **Commits**: 3556
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 3 | 33 | 0 | 9 | 7 |
-| last60d | 2026-08-29 | 5 | 29 | 49 | 6 | 34 | 137 |
-| 90d | 2026-07-30 | 7 | 34 | 55 | 10 | 37 | 146 |
-| last180d | 2026-05-01 | 16 | 79 | 79 | 69 | 51 | 544 |
-| 360d | 2025-11-02 | 26 | 117 | 101 | 117 | 62 | 663 |
-| last720d | 2024-11-07 | 30 | 140 | 108 | 185 | 91 | 897 |
+| 30d | 2026-09-29 | 0 | 3 | 32 | 0 | 9 | 7 |
+| last60d | 2026-08-30 | 5 | 28 | 48 | 6 | 34 | 137 |
+| 90d | 2026-07-31 | 7 | 32 | 54 | 10 | 37 | 146 |
+| last180d | 2026-05-02 | 16 | 79 | 78 | 69 | 51 | 544 |
+| 360d | 2025-11-03 | 26 | 116 | 100 | 114 | 62 | 663 |
+| last720d | 2024-11-08 | 30 | 140 | 107 | 185 | 91 | 897 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:20:59Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:41:02Z._
