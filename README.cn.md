@@ -26,11 +26,11 @@ x install datasette
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.4 / 10**
+总评分: **4.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/29 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ x install datasette
 
 ## 流行度
 
-- **Star**: 11,540 · **Fork**: 947 · **开放 issue**: 2,097 · **贡献者**: 98
+- **Star**: 11,543 · **Fork**: 949 · **开放 issue**: 2,097 · **贡献者**: 98
 
 ## 累计统计
 
-- **发布数**: 176 · **已合并 PR**: 478 · **开放 PR**: 157 · **已关闭 issue**: 1536 · **开放 issue**: 561 · **提交数**: 3557
+- **发布数**: 176 · **已合并 PR**: 478 · **开放 PR**: 159 · **已关闭 issue**: 1536 · **开放 issue**: 561 · **提交数**: 3557
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 1 | 27 | 0 | 8 | 6 |
-| last60d | 2026-09-05 | 5 | 19 | 54 | 6 | 36 | 97 |
-| 90d | 2026-08-06 | 7 | 32 | 58 | 9 | 40 | 145 |
-| last180d | 2026-05-08 | 16 | 79 | 83 | 68 | 55 | 544 |
-| 360d | 2025-11-09 | 23 | 113 | 106 | 107 | 64 | 658 |
-| last720d | 2024-11-14 | 30 | 140 | 113 | 185 | 94 | 898 |
+| 30d | 2026-10-06 | 0 | 1 | 28 | 0 | 8 | 6 |
+| last60d | 2026-09-06 | 5 | 19 | 55 | 6 | 36 | 97 |
+| 90d | 2026-08-07 | 5 | 32 | 60 | 9 | 40 | 145 |
+| last180d | 2026-05-09 | 16 | 79 | 85 | 68 | 55 | 544 |
+| 360d | 2025-11-10 | 23 | 112 | 108 | 106 | 64 | 658 |
+| last720d | 2024-11-15 | 30 | 140 | 115 | 184 | 94 | 898 |
 
 ## 发行版状态
 
@@ -84,4 +84,4 @@ datasette 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:04:20Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:23:36Z._
