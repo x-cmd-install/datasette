@@ -1,18 +1,11 @@
-- repo: kali_rolling
-  subrepo: main
+- repo: gnuguix
   srcname: datasette
-  binnames:
-    - datasette
-    - datasette-doc
+  binname: datasette
   visiblename: datasette
-  version: 0.65.5
-  origversion: 0.65.5+ds-1
-  status: newest
-  maintainers:
-    - team+python@tracker.debian.org
-    - mahangu@gmail.com
-  categories:
-    - database
+  version: 1.0a26
+  origversion: null
+  status: devel
+  summary: Multi-tool for exploring and publishing data
 - repo: aur
   srcname: datasette
   binname: datasette
@@ -82,14 +75,6 @@
     - mahangu@gmail.com
   categories:
     - database
-- repo: gnuguix
-  srcname: datasette
-  binname: datasette
-  visiblename: datasette
-  version: 1.0a26
-  origversion: null
-  status: devel
-  summary: Multi-tool for exploring and publishing data
 - repo: homebrew
   srcname: datasette
   visiblename: datasette
@@ -104,6 +89,21 @@
   origversion: null
   status: rolling
   summary: Open source multi-tool for exploring and publishing data
+- repo: kali_rolling
+  subrepo: main
+  srcname: datasette
+  binnames:
+    - datasette
+    - datasette-doc
+  visiblename: datasette
+  version: 0.65.5
+  origversion: 0.65.5+ds-1
+  status: newest
+  maintainers:
+    - team+python@tracker.debian.org
+    - mahangu@gmail.com
+  categories:
+    - database
 - repo: nix_stable_24_05
   srcname: datasette
   visiblename: datasette
@@ -202,21 +202,6 @@
     - universe/database
 - repo: ubuntu_27_04
   subrepo: tenacious/universe
-  srcname: datasette
-  binnames:
-    - datasette
-    - datasette-doc
-  visiblename: datasette
-  version: 0.65.3
-  origversion: 0.65.3+ds-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - mahangu@gmail.com
-  categories:
-    - universe/database
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
   srcname: datasette
   binnames:
     - datasette
