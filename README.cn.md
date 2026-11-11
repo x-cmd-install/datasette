@@ -26,11 +26,11 @@ x install datasette
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.7 / 10**
+总评分: **4.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,22 +47,22 @@ x install datasette
 
 ## 流行度
 
-- **Star**: 11,554 · **Fork**: 959 · **开放 issue**: 2,102 · **贡献者**: 107
+- **Star**: 11,570 · **Fork**: 961 · **开放 issue**: 2,103 · **贡献者**: 107
 
 ## 累计统计
 
-- **发布数**: 177 · **已合并 PR**: 499 · **开放 PR**: 150 · **已关闭 issue**: 1558 · **开放 issue**: 544 · **提交数**: 3665
+- **发布数**: 177 · **已合并 PR**: 499 · **开放 PR**: 151 · **已关闭 issue**: 1558 · **开放 issue**: 545 · **提交数**: 3665
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 20 | 21 | 6 | 6 | 96 |
-| last60d | 2026-09-11 | 6 | 38 | 49 | 13 | 32 | 158 |
-| 90d | 2026-08-12 | 6 | 51 | 52 | 17 | 36 | 239 |
-| last180d | 2026-05-14 | 16 | 99 | 78 | 76 | 49 | 631 |
-| 360d | 2025-11-15 | 23 | 132 | 99 | 114 | 56 | 749 |
-| last720d | 2024-11-20 | 31 | 161 | 106 | 196 | 86 | 1004 |
+| 30d | 2026-10-12 | 1 | 19 | 22 | 6 | 7 | 96 |
+| last60d | 2026-09-12 | 4 | 38 | 50 | 13 | 33 | 158 |
+| 90d | 2026-08-13 | 6 | 50 | 53 | 16 | 37 | 239 |
+| last180d | 2026-05-15 | 16 | 99 | 79 | 76 | 49 | 631 |
+| 360d | 2025-11-16 | 23 | 132 | 100 | 114 | 57 | 749 |
+| last720d | 2024-11-21 | 31 | 161 | 107 | 196 | 87 | 1004 |
 
 ## 发行版状态
 
@@ -84,4 +84,4 @@ datasette 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T08:09:12Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:02:42Z._
