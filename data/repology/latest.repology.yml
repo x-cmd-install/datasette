@@ -1,11 +1,3 @@
-- repo: gnuguix
-  srcname: datasette
-  binname: datasette
-  visiblename: datasette
-  version: 1.0a26
-  origversion: null
-  status: devel
-  summary: Multi-tool for exploring and publishing data
 - repo: aur
   srcname: datasette
   binname: datasette
@@ -75,6 +67,14 @@
     - mahangu@gmail.com
   categories:
     - database
+- repo: gnuguix
+  srcname: datasette
+  binname: datasette
+  visiblename: datasette
+  version: 1.0a41
+  origversion: null
+  status: devel
+  summary: Multi-tool for exploring and publishing data
 - repo: homebrew
   srcname: datasette
   visiblename: datasette
