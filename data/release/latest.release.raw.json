@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/simonw/datasette/releases/390343787",
-  "assets_url": "https://api.github.com/repos/simonw/datasette/releases/390343787/assets",
-  "upload_url": "https://uploads.github.com/repos/simonw/datasette/releases/390343787/assets{?name,label}",
-  "html_url": "https://github.com/simonw/datasette/releases/tag/0.65.5",
-  "id": 390343787,
+  "url": "https://api.github.com/repos/simonw/datasette/releases/446441252",
+  "assets_url": "https://api.github.com/repos/simonw/datasette/releases/446441252/assets",
+  "upload_url": "https://uploads.github.com/repos/simonw/datasette/releases/446441252/assets{?name,label}",
+  "html_url": "https://github.com/simonw/datasette/releases/tag/0.65.6",
+  "id": 446441252,
   "author": {
     "login": "simonw",
     "id": 9599,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBm6k_c4XRCxr",
-  "tag_name": "0.65.5",
+  "node_id": "RE_kwDOBm6k_c4anCck",
+  "tag_name": "0.65.6",
   "target_commitish": "0.65.x",
-  "name": "0.65.5",
+  "name": "0.65.6",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-16T23:44:13Z",
-  "updated_at": "2026-09-16T23:51:08Z",
-  "published_at": "2026-09-16T23:51:08Z",
+  "created_at": "2026-11-15T23:05:56Z",
+  "updated_at": "2026-11-15T23:18:17Z",
+  "published_at": "2026-11-15T23:18:17Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/simonw/datasette/tarball/0.65.5",
-  "zipball_url": "https://api.github.com/repos/simonw/datasette/zipball/0.65.5",
-  "body": "- Fixed a security issue where a trailing newline in a requested table name could bypass table permissions and expose private rows. Thanks for the report, [dpfkdlemtp](https://github.com/dpfkdlemtp). [GHSA-h547-rmjf-5m2m](https://github.com/simonw/datasette/security/advisories/GHSA-h547-rmjf-5m2m)\r\n"
+  "tarball_url": "https://api.github.com/repos/simonw/datasette/tarball/0.65.6",
+  "zipball_url": "https://api.github.com/repos/simonw/datasette/zipball/0.65.6",
+  "body": "- Fixed a security issue where a database registered using `add_database(db, name=..., route=...)` with a route that differs from its name could be downloaded from `/<route>.db` by actors who were denied access to it. The `view-database-download` and `view-database` permission checks for that URL are now made against the database name. A `permission_allowed()` plugin hook that matched `view-database-download` against the route will now be passed the database name instead."
 }

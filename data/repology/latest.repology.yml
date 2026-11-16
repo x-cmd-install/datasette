@@ -1,3 +1,25 @@
+- repo: nix_stable_24_11
+  srcname: datasette
+  visiblename: datasette
+  version: "0.65"
+  origversion: null
+  status: outdated
+  summary: Multi-tool for exploring and publishing data
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: datasette
+  visiblename: datasette
+  version: 0.65.1
+  origversion: null
+  status: outdated
+  summary: Multi-tool for exploring and publishing data
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: datasette
   binname: datasette
@@ -7,7 +29,7 @@
   status: outdated
   summary: An open source multi-tool for exploring and publishing data
   maintainers:
-    - fallback-mnt-aur@repology
+    - fbf-prog64@aur
   licenses:
     - Apache-2.0
 - repo: aur
@@ -108,28 +130,6 @@
   srcname: datasette
   visiblename: datasette
   version: 0.64.6
-  origversion: null
-  status: outdated
-  summary: Multi-tool for exploring and publishing data
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: datasette
-  visiblename: datasette
-  version: "0.65"
-  origversion: null
-  status: outdated
-  summary: Multi-tool for exploring and publishing data
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: datasette
-  visiblename: datasette
-  version: 0.65.1
   origversion: null
   status: outdated
   summary: Multi-tool for exploring and publishing data
