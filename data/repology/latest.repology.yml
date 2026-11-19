@@ -1,32 +1,10 @@
-- repo: nix_stable_24_11
-  srcname: datasette
-  visiblename: datasette
-  version: "0.65"
-  origversion: null
-  status: outdated
-  summary: Multi-tool for exploring and publishing data
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: datasette
-  visiblename: datasette
-  version: 0.65.1
-  origversion: null
-  status: outdated
-  summary: Multi-tool for exploring and publishing data
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - Apache-2.0
 - repo: aur
   srcname: datasette
   binname: datasette
   visiblename: datasette
-  version: 0.64.8
-  origversion: 0.64.8-1
-  status: outdated
+  version: 0.65.6
+  origversion: 0.65.6-1
+  status: newest
   summary: An open source multi-tool for exploring and publishing data
   maintainers:
     - fbf-prog64@aur
@@ -36,8 +14,8 @@
   srcname: datasette-git
   binname: datasette-git
   visiblename: datasette-git
-  version: 1.0a41.r73.77bc27bd
-  origversion: 1.0a41.r73.77bc27bd-1
+  version: 1.0a43.r60.c3974839
+  origversion: 1.0a43.r60.c3974839-1
   status: rolling
   summary: An open source multi-tool for exploring and publishing data (bleeding-edge version)
   maintainers:
@@ -53,7 +31,7 @@
   visiblename: datasette
   version: 0.65.5
   origversion: 0.65.5+ds-1
-  status: newest
+  status: outdated
   maintainers:
     - team+python@tracker.debian.org
     - mahangu@gmail.com
@@ -68,7 +46,7 @@
   visiblename: datasette
   version: 0.65.5
   origversion: 0.65.5+ds-1
-  status: newest
+  status: outdated
   maintainers:
     - team+python@tracker.debian.org
     - mahangu@gmail.com
@@ -83,7 +61,7 @@
   visiblename: datasette
   version: 0.65.5
   origversion: 0.65.5+ds-1
-  status: newest
+  status: outdated
   maintainers:
     - team+python@tracker.debian.org
     - mahangu@gmail.com
@@ -100,7 +78,7 @@
 - repo: homebrew
   srcname: datasette
   visiblename: datasette
-  version: 0.65.5
+  version: 0.65.6
   origversion: null
   status: newest
   summary: Open source multi-tool for exploring and publishing data
@@ -120,7 +98,7 @@
   visiblename: datasette
   version: 0.65.5
   origversion: 0.65.5+ds-1
-  status: newest
+  status: outdated
   maintainers:
     - team+python@tracker.debian.org
     - mahangu@gmail.com
@@ -130,6 +108,28 @@
   srcname: datasette
   visiblename: datasette
   version: 0.64.6
+  origversion: null
+  status: outdated
+  summary: Multi-tool for exploring and publishing data
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: datasette
+  visiblename: datasette
+  version: "0.65"
+  origversion: null
+  status: outdated
+  summary: Multi-tool for exploring and publishing data
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: datasette
+  visiblename: datasette
+  version: 0.65.1
   origversion: null
   status: outdated
   summary: Multi-tool for exploring and publishing data
@@ -179,7 +179,7 @@
   visiblename: datasette
   version: 0.65.5
   origversion: 0.65.5+ds-1
-  status: newest
+  status: outdated
   maintainers:
     - team+python@tracker.debian.org
     - mahangu@gmail.com
@@ -209,7 +209,7 @@
   visiblename: datasette
   version: 0.65.5
   origversion: 0.65.5+ds-1
-  status: newest
+  status: outdated
   maintainers:
     - team+python@tracker.debian.org
     - mahangu@gmail.com
