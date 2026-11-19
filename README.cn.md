@@ -14,23 +14,23 @@ x install datasette
 
 ## 代码洞察
 
-合计: **115,854** 行代码（覆盖前 5 种语言、共 **325** 个文件）。
+合计: **117,853** 行代码（覆盖前 5 种语言、共 **328** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 74,869 | 3,528 | 10,535 | 187 |
-| ReStructuredText | 17,000 | 0 | 7,340 | 32 |
-| JavaScript | 13,630 | 564 | 1,058 | 27 |
+| Python | 76,370 | 3,584 | 10,730 | 189 |
+| ReStructuredText | 17,381 | 0 | 7,534 | 32 |
+| JavaScript | 13,632 | 566 | 1,058 | 27 |
 | Css | 6,115 | 263 | 780 | 2 |
-| Html | 2,922 | 3 | 344 | 77 |
+| Html | 3,033 | 3 | 350 | 78 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **4.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/23 approved changesets -- score normalized to 3
+- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,37 @@ x install datasette
 ## 发布
 
 - **最新版本**: `1.0a43` (2026-11-15)
-- **最近提交**: 2026-11-17
+- **最近提交**: 2026-11-18
 
 ## 流行度
 
-- **Star**: 11,589 · **Fork**: 969 · **开放 issue**: 2,108 · **贡献者**: 110
+- **Star**: 11,609 · **Fork**: 969 · **开放 issue**: 2,110 · **贡献者**: 110
 
 ## 累计统计
 
-- **发布数**: 179 · **已合并 PR**: 520 · **开放 PR**: 149 · **已关闭 issue**: 1591 · **开放 issue**: 517 · **提交数**: 3740
+- **发布数**: 179 · **已合并 PR**: 523 · **开放 PR**: 148 · **已关闭 issue**: 1595 · **开放 issue**: 515 · **提交数**: 3770
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 37 | 20 | 12 | 3 | 167 |
-| last60d | 2026-09-18 | 4 | 51 | 43 | 16 | 13 | 194 |
-| 90d | 2026-08-19 | 8 | 71 | 51 | 27 | 29 | 311 |
-| last180d | 2026-05-21 | 18 | 118 | 74 | 84 | 41 | 640 |
-| 360d | 2025-11-22 | 25 | 153 | 99 | 129 | 47 | 820 |
-| last720d | 2024-11-27 | 33 | 182 | 106 | 211 | 77 | 1079 |
+| 30d | 2026-10-20 | 3 | 40 | 17 | 12 | 5 | 196 |
+| last60d | 2026-09-20 | 4 | 53 | 42 | 16 | 15 | 223 |
+| 90d | 2026-08-21 | 8 | 74 | 50 | 27 | 31 | 340 |
+| last180d | 2026-05-23 | 18 | 118 | 72 | 81 | 43 | 669 |
+| 360d | 2025-11-24 | 25 | 156 | 98 | 129 | 49 | 849 |
+| last720d | 2024-11-29 | 33 | 185 | 105 | 210 | 79 | 1109 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/datasette) 上共有 **18** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.65.5` | ⚠️ outdated |
+| Debian 14 | `0.65.5` | ⚠️ outdated |
+| Homebrew | `0.65.6` | ✅ latest |
+| Nix unstable | `0.65.2` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -73,4 +84,4 @@ datasette 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:43:16Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:42:41Z._
