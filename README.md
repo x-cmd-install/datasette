@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,648 · **Forks**: 977 · **Open issues**: 2,114 · **Contributors**: 112
+- **Stars**: 11,654 · **Forks**: 978 · **Open issues**: 2,114 · **Contributors**: 112
 
 ## Totals (cumulative)
 
@@ -57,23 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 58 | 13 | 16 | 5 | 249 |
-| last60d | 2026-09-25 | 4 | 67 | 33 | 20 | 12 | 257 |
-| 90d | 2026-08-26 | 9 | 94 | 42 | 32 | 29 | 393 |
-| last180d | 2026-05-28 | 18 | 134 | 62 | 78 | 40 | 655 |
-| 360d | 2025-11-29 | 26 | 177 | 86 | 135 | 44 | 898 |
-| last720d | 2024-12-04 | 33 | 207 | 95 | 217 | 72 | 1168 |
-
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/datasette). **2** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.65.5` | ⚠️ outdated |
-| Debian 14 | `0.65.5` | ⚠️ outdated |
-| Homebrew | `0.65.6` | ✅ latest |
-| Nix unstable | `0.65.2` | ⚠️ outdated |
+| 30d | 2026-10-26 | 4 | 58 | 12 | 16 | 5 | 249 |
+| last60d | 2026-09-26 | 4 | 67 | 33 | 20 | 12 | 257 |
+| 90d | 2026-08-27 | 9 | 94 | 42 | 32 | 29 | 393 |
+| last180d | 2026-05-29 | 18 | 134 | 62 | 77 | 40 | 655 |
+| 360d | 2025-11-30 | 26 | 177 | 86 | 135 | 44 | 898 |
+| last720d | 2024-12-05 | 33 | 206 | 95 | 217 | 72 | 1168 |
 
 ## Improve this data
 
@@ -84,4 +73,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:33:58Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:05:29Z._
