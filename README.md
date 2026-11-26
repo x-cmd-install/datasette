@@ -14,14 +14,14 @@ x install datasette
 
 ## Code insight
 
-Total: **122,759** lines of code across **333** files in the top 5 languages.
+Total: **122,769** lines of code across **333** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 80,936 | 3,994 | 11,294 | 194 |
+| Python | 80,942 | 3,995 | 11,296 | 194 |
 | ReStructuredText | 17,566 | 0 | 7,616 | 32 |
 | JavaScript | 13,734 | 592 | 1,061 | 27 |
-| Css | 6,172 | 275 | 789 | 2 |
+| Css | 6,176 | 277 | 789 | 2 |
 | Html | 3,033 | 3 | 350 | 78 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0a44` (2026-11-15)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-26
 
 ## Popularity
 
-- **Stars**: 11,654 · **Forks**: 978 · **Open issues**: 2,114 · **Contributors**: 112
+- **Stars**: 11,668 · **Forks**: 979 · **Open issues**: 2,116 · **Contributors**: 112
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 545 · **Open PRs**: 138 · **Closed issues**: 1622 · **Open issues**: 492 · **Commits**: 3831
+- **Releases**: 180 · **Merged PRs**: 546 · **Open PRs**: 143 · **Closed issues**: 1622 · **Open issues**: 494 · **Commits**: 3832
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 58 | 12 | 16 | 5 | 249 |
-| last60d | 2026-09-26 | 4 | 67 | 33 | 20 | 12 | 257 |
-| 90d | 2026-08-27 | 9 | 94 | 42 | 32 | 29 | 393 |
-| last180d | 2026-05-29 | 18 | 134 | 62 | 77 | 40 | 655 |
-| 360d | 2025-11-30 | 26 | 177 | 86 | 135 | 44 | 898 |
-| last720d | 2024-12-05 | 33 | 206 | 95 | 217 | 72 | 1168 |
+| 30d | 2026-10-27 | 4 | 59 | 17 | 16 | 7 | 250 |
+| last60d | 2026-09-27 | 4 | 68 | 38 | 20 | 14 | 258 |
+| 90d | 2026-08-28 | 9 | 95 | 47 | 32 | 31 | 394 |
+| last180d | 2026-05-30 | 17 | 135 | 67 | 74 | 42 | 656 |
+| 360d | 2025-12-01 | 26 | 178 | 91 | 135 | 46 | 899 |
+| last720d | 2024-12-06 | 33 | 207 | 99 | 217 | 74 | 1169 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for datasette lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:05:29Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:00:17Z._
