@@ -7,7 +7,7 @@ about:
   latestVersion: "1.0a44"
   latestRelease: "0.65.6"
   latestPrerelease: "1.0a44"
-  collectedAt: 2026-11-27T08:58:40Z
+  collectedAt: 2026-11-28T08:34:31Z
 timeline:
   created: 2017-10-23
   lastCommit: 2026-11-26
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-11-15
   lastPrerelease: 2026-11-23
 popularity:
-  star: 11682
+  star: 11686
   watcher: 103
-  fork: 979
+  fork: 981
   release: 180
   contributor: 112
-  pullRequest: 859
+  pullRequest: 861
   issue: 2116
 language:
   Python: 3369675
@@ -34,63 +34,63 @@ language:
 totalBytes: 4273196
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 4
     mergedPR: 59
-    openPR: 18
+    openPR: 20
     closedIssue: 16
     openIssue: 7
     commit: 250
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 4
     mergedPR: 68
-    openPR: 38
+    openPR: 40
     closedIssue: 18
     openIssue: 14
     commit: 258
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 9
-    mergedPR: 95
-    openPR: 48
+    mergedPR: 94
+    openPR: 50
     closedIssue: 32
     openIssue: 31
     commit: 394
   last180d:
-    since: 2026-05-31
-    release: 17
-    mergedPR: 134
-    openPR: 68
+    since: 2026-06-01
+    release: 16
+    mergedPR: 132
+    openPR: 70
     closedIssue: 71
     openIssue: 42
     commit: 656
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 26
     mergedPR: 178
-    openPR: 92
-    closedIssue: 134
+    openPR: 93
+    closedIssue: 133
     openIssue: 46
     commit: 899
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 33
     mergedPR: 207
-    openPR: 100
+    openPR: 102
     closedIssue: 217
     openIssue: 73
     commit: 1169
 total:
   release: 180
   mergedPR: 546
-  openPR: 144
+  openPR: 146
   closedIssue: 1622
   openIssue: 494
   commit: 3832
 ---
 path: /home/runner/.x-repo/github.com/simonw/datasette
-collectedAt: 2026-11-27T08:58:46Z
+collectedAt: 2026-11-28T08:34:35Z
 loc:
   Python:
     code: 80942
